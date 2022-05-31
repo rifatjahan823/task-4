@@ -30,7 +30,7 @@
       "id": "4",
       "design":"IRA Logo Design",
       "strMeal": "Logo",
-      "strCategory": "Mascot",
+      "strCategory":"Mascot",
       "strMealThumb": "https://i.ibb.co/KzYVDvs/breakfast4.png",
       "strInstructions": "",
       "price":"90"
@@ -39,7 +39,7 @@
       "id": "5",
       "design":"IRA Logo Design",
       "strMeal": "Logo",
-      "strCategory": "Mascot",
+      "strCategory":"Mascot",
       "strMealThumb": "https://i.ibb.co/QHgsfKw/breakfast5.png",
       "strInstructions": "",
       "price":"90"
@@ -47,8 +47,8 @@
     {
       "id": "6",
       "design":"IRA Logo Design",
-      "strMeal": "Mascot",
-      "strCategory": "",
+      "strMeal":"Mascot",
+      "strCategory": "Mascot",
       "strMealThumb": "https://i.ibb.co/QHgsfKw/breakfast5.png",
       "strInstructions": ""
     },
@@ -80,7 +80,7 @@
         "id": "10",
         "strMeal": "Logo",
         "design":"IRA Logo Design",
-        "strCategory": "Fiyer ",
+        "strCategory": "Fiyer",
         "strMealThumb": "https://i.ibb.co/z5mz8L0/lunch4.png",
         "strInstructions": ""
       },
@@ -88,7 +88,7 @@
         "id": "11",
         "strMeal": "Logo",
         "design":"IRA Logo Design",
-        "strCategory": "Fiyer ",
+        "strCategory": "Fiyer",
         "strMealThumb": "https://i.ibb.co/VQ3ycn5/lunch5.png",
         "strInstructions": ""
       },
