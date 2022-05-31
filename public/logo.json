@@ -31,7 +31,7 @@
       "design":"IRA Logo Design",
       "strMeal": "Logo",
       "strCategory":"Mascot",
-      "strMealThumb": "https://i.ibb.co/KzYVDvs/breakfast4.png",
+      "strMealThumb": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4cae02113625133.602bdc2fea488.png",
       "strInstructions": "",
       "price":"90"
     },
@@ -40,7 +40,7 @@
       "design":"IRA Logo Design",
       "strMeal": "Logo",
       "strCategory":"Mascot",
-      "strMealThumb": "https://i.ibb.co/QHgsfKw/breakfast5.png",
+      "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxKw9-d4GzSqns0hMuHcBgIZuVWllJma-imQhUvczm0Yl4S8jrLCImNat3k1umzIJQTPY&usqp=CAU",
       "strInstructions": "",
       "price":"90"
     },
@@ -49,7 +49,7 @@
       "design":"IRA Logo Design",
       "strMeal":"Mascot",
       "strCategory": "Mascot",
-      "strMealThumb": "https://i.ibb.co/QHgsfKw/breakfast5.png",
+      "strMealThumb": "https://play-lh.googleusercontent.com/18PAuW4RdYs-ky7nxJE1w9AUmyxr8Odd99xWc0bECm87_HpjHlcLTHAcH88KIMIWD60",
       "strInstructions": ""
     },
     {
@@ -57,7 +57,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "Bisiness",
-        "strMealThumb": "https://i.ibb.co/ccz2bB8/lunch1.png",
+        "strMealThumb": "https://cdn.dribbble.com/users/4838879/screenshots/15155593/media/1b375f74bb822b1a6a56d7507ec8cd73.jpg?compress=1&resize=400x300&vertical=top",
         "strInstructions": ""
       },
       {
@@ -65,7 +65,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "Bisiness",
-        "strMealThumb": "https://i.ibb.co/KLXnn9y/lunch2.png",
+        "strMealThumb": "https://i.pinimg.com/originals/58/8f/48/588f488944a25e1487df29b564c84bfe.jpg",
         "strInstructions": ""
       },
       {
@@ -73,7 +73,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "Bisiness",
-        "strMealThumb": "https://i.ibb.co/S3Qr9ZY/lunch3.png",
+        "strMealThumb": "https://png.pngtree.com/png-clipart/20200727/original/pngtree-modern-creative-business-card-design-png-image_5355336.jpg",
         "strInstructions": ""
       },
       {
@@ -81,7 +81,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "Fiyer",
-        "strMealThumb": "https://i.ibb.co/z5mz8L0/lunch4.png",
+        "strMealThumb": "https://img.pikbest.com/05/63/13/127pIkbEsTpmZ.jpg-0.jpg!bw700",
         "strInstructions": ""
       },
       {
@@ -89,7 +89,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "Fiyer",
-        "strMealThumb": "https://i.ibb.co/VQ3ycn5/lunch5.png",
+        "strMealThumb": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b915c0108356467.5fbc14de8d138.jpg",
         "strInstructions": ""
       },
       {
@@ -97,14 +97,15 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "Fiyer",
-        "strMealThumb": "https://i.ibb.co/d28cN0W/lunch6.png",
+        "strMealThumb": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7569ef66091865.5b0acbd2a37a6.png",
         "strInstructions": ""
       },
       {
         "id": "13",
         "strMeal": "Logo",
         "strCategory": "T-shart",
-        "strMealThumb": "https://i.ibb.co/vYfhyBQ/dinner1.png",
+        "design":"IRA Logo Design",
+        "strMealThumb": "https://cdn.dribbble.com/users/61921/screenshots/9634673/media/985b2add2b952f24634b717c4d846bf2.png?compress=1&resize=400x300&fbclid=IwAR0jB_JOWCGW4_KBfYFpYqH56PHuAl7shK1pLfYoAtitv0GjAYjhD2a00fI",
         "strInstructions": ""
       },
       {
@@ -112,7 +113,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "T-shart",
-        "strMealThumb": "https://i.ibb.co/MCMFGzB/dinner2.png",
+        "strMealThumb": "https://static.vecteezy.com/system/resources/thumbnails/005/493/689/small/never-give-up-motivational-typography-t-shirt-design-template-for-print-lettering-t-shirt-vector.jpg",
         "strInstructions": ""
       },
       {
@@ -120,7 +121,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "T-shart",
-        "strMealThumb": "https://i.ibb.co/ZHB43RQ/dinner3.png",
+        "strMealThumb": "https://static.vecteezy.com/system/resources/thumbnails/003/223/950/small/t-shirt-sport-design-racing-jersey-uniform-front-and-back-view-free-vector.jpg",
         "strInstructions": ""
       },
       {
@@ -128,7 +129,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "DataEntry",
-        "strMealThumb": "https://i.ibb.co/T1kYRvD/dinner4.png",
+        "strMealThumb": "https://dynamic.placementindia.com/blog_images/20200921152020_image1.jpg",
         "strInstructions": ""
       },
       {
@@ -136,7 +137,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "DataEntry",
-        "strMealThumb": "https://i.ibb.co/J2SwrnR/dinner5.png",
+        "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0exSTxolRF1wGFt_f2DDPjas9JSfb2kXQkBuEs8_mr6azhIw5q4_Jt1pcybR290m4NPk&usqp=CAU",
         "strInstructions": ""
       },
       {
@@ -144,14 +145,15 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "DataEntry",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://itfsoftwareservice.com/wp-content/uploads/2021/07/20200921152020_image1.jpg",
         "strInstructions": ""
       },
       {
         "id": "19",
         "strMeal": "Logo",
+        "design":"IRA Logo Design",
         "strCategory": "Digital",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png",
         "strInstructions": ""
       },
       {
@@ -159,7 +161,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "Digital",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGeH5D22FfdAcHRkT_K6wmrOe9Jtj7j8I42193hQYLO06Hx1K-leIIBafOQUHn89jY9fg&usqp=CAU",
         "strInstructions": ""
       },
       {
@@ -167,7 +169,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "Digital",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://i0.wp.com/www.inventiva.co.in/wp-content/uploads/2021/12/digital_marketing_img_00.jpg",
         "strInstructions": ""
       },
       {
@@ -175,14 +177,14 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "Ui/UX Design",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://assets.materialup.com/uploads/d0049bc2-257b-477f-a0dc-85874c3dafaa/preview.png",
         "strInstructions": ""
       },
       {
         "id": "23",
         "strMeal": "Logo",
         "strCategory": "Ui/UX Design",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://i.pinimg.com/originals/89/24/72/89247257cbfea4f3016d73527b0d2f89.png",
         "strInstructions": ""
       },
       {
@@ -190,14 +192,15 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "Ui/UX Design",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNI0c49aoUrMdGLgAUq9WpGHc388jAC4v7qS-FNpjGhcIf9F295nl_bnkaRG2CDkDtwLE&usqp=CAU",
         "strInstructions": ""
       },
       {
         "id": "25",
         "strMeal": "",
+        "design":"IRA Logo Design",
         "strCategory": "Photo",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://www.remove.bg/images/samples/combined/s5.jpg",
         "strInstructions": ""
       },
       {
@@ -205,7 +208,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "Photo",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://making.lyst.com/images/background-removal/other_examples.jpeg",
         "strInstructions": ""
       },
       {
@@ -213,7 +216,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "Photo",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://www.upwork.com/catalog-images-resized/f3f0d12350a39960cb9f222170241985/large",
         "strInstructions": ""
       },
       {
@@ -221,7 +224,7 @@
         "strMeal": "Logo",
         "design":"IRA Logo Design",
         "strCategory": "WebsiteDesign",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUBV-QqepaPCN5S3tNoECmp0qTCEdyITS9u15uLLiIb841tGyqB9E800PuzxUuK2F2Hc&usqp=CAU",
         "strInstructions": ""
       },
       {
@@ -229,7 +232,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "WebsiteDesign",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWElxClUBF-U_FEBFpOt-fBifmKR5i5B1-oSCbbBxMlB9Y9D3IIvE6z-eY-l5W6oRkXQ&usqp=CAU",
         "strInstructions": ""
       },
       {
@@ -237,7 +240,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "WebsiteDesign",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRk0CeZiVEVJFQT6ypxeK-IoI6BqQSO-aSxGe7zZUQBVMPacynBdn8aMOd7Jab5xfNqBs&usqp=CAU",
         "strInstructions": ""
       },
       {
@@ -245,7 +248,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "logo",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://99designs-acquisition-frontend.imgix.net/serverless/images/categoryPage/hero/logo-design/04-artsigma.jpg",
         "strInstructions": ""
       },
       {
@@ -253,7 +256,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "logo",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://www.designhill.com/resize_img.php?atyp=page_file&pth=ft_ca_ct||259||contestfile_1&flp=1626068668-181804171260ebd6bcf116b5-27635942.jpg",
         "strInstructions": ""
       },
       {
@@ -261,7 +264,7 @@
         "design":"IRA Logo Design",
         "strMeal": "Logo",
         "strCategory": "logo",
-        "strMealThumb": "https://i.ibb.co/McP5jHN/dinner6.png",
+        "strMealThumb": "https://www.designfreelogoonline.com/wp-content/uploads/2021/07/3D-colorful-logo-maker-e1626345561717.jpg",
         "strInstructions": ""
       }
   ]
