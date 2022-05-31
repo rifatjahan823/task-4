@@ -1,0 +1,30 @@
+.FoodsDetails img{
+    width: 100%;
+    height: 250px;
+}
+.FoodsDetails{
+position: relative;
+}
+.content{
+  position:absolute;
+  bottom:0%;
+  left: 0%;
+   width: 100%;
+ visibility: hidden;
+   }
+   .FoodsDetails:hover{
+    cursor: pointer;
+   }
+.FoodsDetails:hover .content{
+   visibility: visible;
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0.311);
+ 
+   }
+   .content h6{
+       padding:  0 8px;
+   }
+   .content p{
+       font-size:12px;
+       padding: 0 8px;
+   }

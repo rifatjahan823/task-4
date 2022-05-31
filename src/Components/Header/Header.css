@@ -1,0 +1,11 @@
+.navbar-light .navbar-nav .nav-link {
+    color:black;
+}
+.mxx-auto {
+    
+    margin-left: auto!important;
+}
+.bg{
+    background-color: white;
+    border-bottom: 1px solid #196F3D;
+}
