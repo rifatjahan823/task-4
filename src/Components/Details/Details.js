@@ -4,7 +4,7 @@ import './Details.css'
 const Details = ({logo}) => {
     const {strMealThumb,strMeal,design}=logo
     return (
-         <div className='card-group col-lg-4 col-md-4 col-sm-12 '>
+         <div className='card-group col-lg-6 col-md-6 col-sm-12 '>
            <div className='FoodsDetails '>
             <img className='img-fluid' src={strMealThumb} alt="" />
             <div className='content'>
@@ -13,7 +13,7 @@ const Details = ({logo}) => {
                     <div className='col-8'>
                         <p>{design}</p>
                     </div>
-                    <div className='col-4'>
+                    <div className='col-4 text-end'>
                         <p>l</p>
                     </div>
                 </div>

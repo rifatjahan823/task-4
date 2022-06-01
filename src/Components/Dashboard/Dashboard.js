@@ -4,7 +4,8 @@ import { Button, Offcanvas } from 'react-bootstrap';
 import { Link, Outlet } from 'react-router-dom';
 import CustomLink from '../CustomLink/CustomLink';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCaretDown,faBroom } from '@fortawesome/free-solid-svg-icons';
+import { faCaretDown,faEraser } from '@fortawesome/free-solid-svg-icons';
+import './Dashboard.css'
 
 const Dashboard = () => {
   const [show, setShow] = useState(false);
@@ -59,30 +60,30 @@ const Dashboard = () => {
       <div className='row align-items-start'>
         <div className='col-4'>
             <div className='border pb-4 ' >
-             <div className='row border-bottom pt-3 mb-4 px-3' style={{margin:"0 0px"}}>
+             <div className='row border-bottom pt-3 mb-4 px-3' style={{margin:"0 0px",fontWeight:'500'}}>
                 <div className='col-6'>
-                    <hp><FontAwesomeIcon icon={faCaretDown} /> Filter</hp>
+                    <p><FontAwesomeIcon className='icon' icon={faCaretDown} /> Filter</p>
                 </div>
                 <div className='col-6 text-end '>
-                  <p><FontAwesomeIcon icon={faBroom} /> Clear </p>
+                  <p><FontAwesomeIcon className='icon' icon={faEraser} /> Clear </p>
                 </div>
               </div> 
-            <li className='list-unstyled pb-4 ps-4'> <CustomLink  to="logo">Logo Design</CustomLink ></li>
-            <li className='list-unstyled pb-4 ps-4'> <CustomLink  to="flat">Flat & Minimalist Logo Design</CustomLink ></li>
-            <li className='list-unstyled pb-4 ps-4'> <CustomLink  to="moscot">Mascot Logo Design </CustomLink ></li>
-            <li className='list-unstyled pb-4 ps-4'> <CustomLink  to="bisiness">Bisiness Card And Stationary </CustomLink ></li>
+            <li className='list-unstyled pb-3 ps-4'> <CustomLink  to="logo">Logo Design</CustomLink ></li>
+            <li className='list-unstyled pb-3 ps-4'> <CustomLink  to="flat">Flat & Minimalist Logo Design</CustomLink ></li>
+            <li className='list-unstyled pb-3 ps-4'> <CustomLink  to="moscot">Mascot Logo Design </CustomLink ></li>
+            <li className='list-unstyled pb-3 ps-4'> <CustomLink  to="bisiness">Bisiness Card And Stationary </CustomLink ></li>
             {/* ---------------Fiyer Design T-shart Design------------ */}
               <div className='d-flex'>
-              <li className='list-unstyled mb-4 me-1 ps-4'> <CustomLink to="fiyer">Fiyer Design</CustomLink> </li>
-               <li className='list-unstyled mb-4 ps-4'> <CustomLink to="tshirt">T-shart Design</CustomLink> </li>
+              <li className='list-unstyled mb-3 ps-4'> <CustomLink to="fiyer">Fiyer Design</CustomLink> </li>
+               <li className='list-unstyled mb-3 ps-2'> <CustomLink to="tshirt">T-shart Design</CustomLink> </li>
               </div>
             {/* ---------------Data EntryT-shart Design------------ */}
               <div className='d-flex'>
-              <li className='list-unstyled mb-4 me-1 ps-4'> <CustomLink to="dataentry">Data Entry</CustomLink> </li>
-               <li className='list-unstyled mb-4 ps-4'> <CustomLink to="digital">Digital Marketing</CustomLink> </li>
+              <li className='list-unstyled mb-3 ps-4'> <CustomLink to="dataentry">Data Entry</CustomLink> </li>
+               <li className='list-unstyled mb-3 ps-2'> <CustomLink to="digital">Digital Marketing</CustomLink> </li>
               </div>
-              <li className='list-unstyled mb-4 ps-4'> <CustomLink  to="photo">Photo Background Remove </CustomLink ></li>
-              <li className='list-unstyled mb-4 ps-4'> <CustomLink  to="ux">Ui/ UX Design </CustomLink ></li>
+              <li className='list-unstyled mb-3 ps-4'> <CustomLink  to="photo">Photo Background Remove </CustomLink ></li>
+              <li className='list-unstyled mb-3 ps-4'> <CustomLink  to="ux">Ui/ UX Design </CustomLink ></li>
               <li className='list-unstyled  ps-4'> <CustomLink  to="website">Website Design & Deveiopment </CustomLink ></li>
             </div>
         </div>
